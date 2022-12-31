@@ -1,5 +1,4 @@
 # .github/workflows/**main.yml**
-# .xzxzx
 name: Django-app workflow
 
 on:
